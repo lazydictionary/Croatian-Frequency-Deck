@@ -382,10 +382,10 @@ Kupujem novu odjeću za zimu.	I am buying new clothes for winter.	odjeca	Feminin
 Kupila sam nove cipele za posao.	I bought new shoes for work.	cipela	Feminine	shoe	
 Kaput me drži toplim zimi.	The coat keeps me warm in winter.	kaput	Masculine	coat	
 Nosim džemper jer je hladno.	I am wearing a sweater because it’s cold.	džemper	Masculine	jumper/sweater	
-Košulja je ?ista i peglana.	The shirt is clean and ironed.	košulja	Feminine	shirt	
+Košulja je čista i peglana.	The shirt is clean and ironed.	košulja	Feminine	shirt	
 Jakna je crvene boje.	The jacket is red.	jakna	Feminine	jacket	
 On nosi odijelo za sastanak.	He is wearing a suit for the meeting.	odijelo	Neuter	suit	
-Hla?e su mi preduge.	The pants are too long for me.	hlace	Feminine	trousers/pants	
+Hlače su mi preduge.	The pants are too long for me.	hlace	Feminine	trousers/pants	
 Haljina koju nosi je vrlo elegantna.	The dress she is wearing is very elegant.	haljina	Feminine	dress	
 U ljetnim mjesecima nosim majice kratkih rukava.	I wear short-sleeve shirts in the summer months.	majica kratkih rukava	Feminine	T-shirt	
 Čarape su tople i udobne.	The socks are warm and comfortable.	čarapa	Feminine	sock	
@@ -393,7 +393,7 @@ Grudnjak treba biti udoban.	The bra should be comfortable.	grudnjak	Masculine	br
 Gaće su nove i udobne.	The underwear is new and comfortable.	gace	Feminine	underpants	
 Naočale mi pomažu da bolje vidim.	Glasses help me see better.	naocale	Feminine	glasses	
 Ručna torbica je na stolu.	The handbag is on the table.	rucna torbica	Feminine	purse/handbag	
-Torbica je mala i prakti?na.	The small bag is practical.	torbica	Feminine	purse	
+Torbica je mala i praktična.	The small bag is practical.	torbica	Feminine	purse	
 Novčanik je pun novca.	The wallet is full of money.	novcanik	Masculine	wallet	
 On joj je dao prsten za rođendan.	He gave her a ring for her birthday.	prsten	Masculine	ring	
 Šešir je plave boje.	The hat is blue.	šešir	Masculine	hat	
@@ -405,15 +405,15 @@ Zima je hladna i snježna.	Winter is cold and snowy.	zima	Feminine	winter
 Siječanj je prvi mjesec u godini.	January is the first month of the year.	sijecanj	Masculine	January	
 Veljača je kratki mjesec.	February is a short month.	veljaca	Feminine	February	
 Ožujak donosi proljetne kiše.	March brings spring rains.	ožujak	Masculine	March	
-U travnju cvatu mnoge vrste cvije?a.	In April, many types of flowers bloom.	travanj	Masculine	April	
+U travnju cvatu mnoge vrste cvijeća.	In April, many types of flowers bloom.	travanj	Masculine	April	
 Svibanj je poznat po toplim danima.	May is known for its warm days.	svibanj	Masculine	May	
-Lipanj je mjesec u kojem se po?inje ljetovati.	June is the month when people start vacationing.	lipanj	Masculine	June	
+Lipanj je mjesec u kojem se počinje ljetovati.	June is the month when people start vacationing.	lipanj	Masculine	June	
 Srpanj je najtopliji mjesec u godini.	July is the hottest month of the year.	srpanj	Masculine	July	
 Kolovoz je popularan za obiteljska putovanja.	August is popular for family vacations.	kolovoz	Masculine	August	
-Rujan donosi po?etak škole.	September brings the start of school.	rujan	Masculine	September	
-Listopad je mjesec berbe grož?a.	October is the month for grape harvest.	listopad	Masculine	October	
+Rujan donosi početak škole.	September brings the start of school.	rujan	Masculine	September	
+Listopad je mjesec berbe grožđa.	October is the month for grape harvest.	listopad	Masculine	October	
 Studeni je poznat po hladnom vremenu.	November is known for cold weather.	studeni	Masculine	November	
-Prosinac je mjesec Boži?a.	December is the month of Christmas.	prosinac	Masculine	December	
+Prosinac je mjesec Božića.	December is the month of Christmas.	prosinac	Masculine	December	
 Kupovina namirnica je završena.	The grocery shopping is done.	kupovina	Feminine	shopping	
 Molim vas da mi date račun za ovu uslugu.	Please give me the bill for this service.	racun	Masculine	bill	
 Idemo na tržnicu po svježe voće.	We are going to the market for fresh fruit.	tržnica	Feminine	market	
@@ -430,10 +430,10 @@ Zahod je čist i uredan.	The bathroom is clean and tidy.	zahod	Masculine	toliet
 Kupio sam kartu za koncert.	I bought a ticket for the concert.	karta	Feminine	map, card, ticket	
 Hitna pomoć stigla je brzo.	The emergency service arrived quickly.	hitna pomoc	Feminine	ambulance	
 Policija istražuje incident.	The police are investigating the incident.	policija	Feminine	police	
-Pištolj je zašti?en u sefu.	The gun is secured in the safe.	pištolj	Masculine	gun/pistol	
+Pištolj je zaštićen u sefu.	The gun is secured in the safe.	pištolj	Masculine	gun/pistol	
 Vatrogasci su stigli na mjesto nesreće.	The firefighters arrived at the accident site.	vatrogasci	Masculine	firefighters	
 Zemlja je plodna za uzgoj biljaka.	The soil is fertile for growing plants.	zemlja	Feminine	country, land, soil	
-Živimo u predgra?u grada.	We live in the suburbs of the city.	predgrade	Neuter	suburb	
+Živimo u predgrađu grada.	We live in the suburbs of the city.	predgrade	Neuter	suburb	
 Selo je mirno i tiho.	The village is quiet and peaceful.	selo	Neuter	village, countryside	
 Zdravlje je najvažnija stvar u životu.	Health is the most important thing in life.	zdravlje	Neuter	health	
 Medicina pomaže u liječenju bolesti.	Medicine helps in treating illnesses.	medicina	Feminine	medicine	
@@ -449,7 +449,7 @@ Kašalj može biti simptom prehlade.	A cough can be a symptom of a cold.	kašalj
 Imate bolove u vratu?	Do you have pain in your neck?	vrat	Masculine	neck	
 Stražnjica je osjetljiva nakon treninga.	The buttocks are sore after the workout.	stražnjica	Feminine	buttocks	
 Rame me boli nakon nesreće.	My shoulder hurts after the accident.	rame	Neuter	shoulder	
-Koljeno je nate?eno.	The knee is swollen.	koljeno	Neuter	knee	
+Koljeno je natečeno.	The knee is swollen.	koljeno	Neuter	knee	
 Noga je slomljena.	The leg is broken.	noga	Feminine	leg	
 Trbuh me boli zbog probavnih problema.	My stomach hurts due to digestive issues.	trbuh	Masculine	belly	
 Doktor pregledava dojke na redovnom pregledu.	The doctor examines the breasts during a routine check-up.	dojka	Feminine	bosom/breast	
@@ -472,7 +472,7 @@ Kava je smeđa boje.	The coffee is brown in color.	smed		brown	smed, smeda, smed
 Cvijet je ružičast i lijep.	The flower is pink and beautiful.	ružicast		pink	ružicast, ružicasta, ružicasto, ružicasti, ružicastiji, najružicastiji
 Film je bio dosadan i neinteresantan.	The movie was boring and uninteresting.	dosadan		boring	dosadan, dosadna, dosadno, dosadni, dosadniji, najdosadniji
 Ova knjiga je lagana za čitanje.	This book is easy to read.	lagan		light, easy	lagan, lagana, lagano, lagani, laganiji, najlaganiji
-Osjećam se usamljen kada nitko nije kod ku?e.	I feel lonely when no one is at home.	usamljen		lonely	usamljen, usamljena, usamljeno, usamljeni, usamljeniji, najusamljeniji
+Osjećam se usamljen kada nitko nije kod kuće.	I feel lonely when no one is at home.	usamljen		lonely	usamljen, usamljena, usamljeno, usamljeni, usamljeniji, najusamljeniji
 Gladna sam, trebam nešto za jesti.	I am hungry, I need something to eat.	gladan		hungry	gladan, gladna, gladno, gladni, gladniji, najgladniji
 Žedan sam, želim vodu.	I am thirsty, I want water.	žedan		thirsty	žedan, žedna, žedno, žedni, žedniji, najžedniji
 On je tužan zbog gubitka.	He is sad about the loss.	tužan		sad	tužan, tužna, tužno, tužni, tužniji, najtužniji
@@ -490,11 +490,11 @@ Zalazak sunca je na zapadu.	The sunset is in the west.	zapad		west
 Ruke su prljave nakon rada u vrtu.	The hands are dirty after working in the garden.	prljav		dirty	prljav, prljava, prljavo, prljavi, prljaviji, najprljaviji
 Ova soba je čista i uredna.	This room is clean and tidy.	cist		clean	cist, cista, cisto, cisti, cišci, najcišci
 Torba je puna knjiga.	The bag is full of books.	pun		full (not empty)	pun, puna, puno, puni, puniji, najpuniji
-Stoli? je prazan.	The table is empty.	prazan		empty	prazan, prazna, prazno, prazni, prazniji, najprazniji
+Stolić je prazan.	The table is empty.	prazan		empty	prazan, prazna, prazno, prazni, prazniji, najprazniji
 Ovaj telefon je skup.	This phone is expensive.	skup		expensive	skup, skupa, skupo, skupi, skuplji, najskuplji
 Ova haljina je jeftina.	This dress is cheap.	jeftin		cheap	jeftin, jeftina, jeftino, jeftini, jeftiniji, najjeftiniji
 Ispod kreveta je taman.	It is dark under the bed.	taman		dark (color)	taman, tamna, tamno, tamni, tamniji, najtamniji
-Stan je svijetao i sun?an.	The apartment is bright and sunny.	svijetao		light (color)	svijetao, svijetla, svijetlo, svijetli, svjetliji, najsvjetliji
+Stan je svijetao i sunčan.	The apartment is bright and sunny.	svijetao		light (color)	svijetao, svijetla, svijetlo, svijetli, svjetliji, najsvjetliji
 Ona izgleda seksi u toj haljini.	She looks sexy in that dress.	seksi		sexy	seksi, seksi, seksi, seksi, više seksi, najviše seksi
 On je lijen i ne želi raditi.	He is lazy and doesn’t want to work.	lijen		lazy	lijen, lijena, lijeno, lijeni, ljeniji, najljeniji
 On je hrabar i suočava se sa svojim strahovima.	He is brave and faces his fears.	hrabar		brave	hrabar, hrabra, hrabro, hrabri, hrabriji, najhrabriji
@@ -511,23 +511,23 @@ Tlo je suho nakon dugog sušnog razdoblja.	The ground is dry after a long dry pe
 Danas je topao i sunčan dan.	Today is a warm and sunny day.	topao		warm	topao, topla, toplo, topli, topliji, najtopliji
 Radios je glasan, ne mogu spavati.	The radio is loud, I can't sleep.	glasan		loud	glasan, glasna, glasno, glasni, glasniji, najglasniji
 Oni su mirni i spokojni.	They are calm and peaceful.	miran		calm	miran, mirna, mirno, mirni, mirniji, najmirniji
-Ulica je tiha u no?i.	The street is quiet at night.	tih		silent	tih, tiha, tiho, tihi, tiši, najtiši
+Ulica je tiha u noći.	The street is quiet at night.	tih		silent	tih, tiha, tiho, tihi, tiši, najtiši
 Kuhinja je mjesto gdje kuhamo obroke.	The kitchen is where we cook meals.	kuhinja	Feminine	kitchen	
 Kupaonica je velika i ima kadu.	The bathroom is big and has a bathtub.	kupaonica	Feminine	bathroom	
 Dnevni boravak je ugodan za druženje.	The living room is comfortable for socializing.	dnevni boravak	Masculine	living room	
-Spavaća soba je mirna i opuštaju?a.	The bedroom is quiet and relaxing.	spavaca soba	Feminine	bedroom	
-Vrt je pun cvijeća i povr?a.	The garden is full of flowers and vegetables.	vrt	Masculine	garden	
+Spavaća soba je mirna i opuštajuća.	The bedroom is quiet and relaxing.	spavaca soba	Feminine	bedroom	
+Vrt je pun cvijeća i povrća.	The garden is full of flowers and vegetables.	vrt	Masculine	garden	
 Parkirali smo auto u garažu.	We parked the car in the garage.	garaža	Feminine	garage	
 Zidovi sobe su obojeni u plavu.	The walls of the room are painted blue.	zid	Masculine	wall	
 Imamo spremište u podrumu.	We have storage in the basement.	podrum	Masculine	basement	
 Stube vode do gornjeg kata.	The stairs lead to the upper floor.	stube	Feminine	stairs	
-Krov ku?e treba popravak.	The roof of the house needs repair.	krov	Masculine	roof	
+Krov kuće treba popravak.	The roof of the house needs repair.	krov	Masculine	roof	
 Prozor je otvoren za svjež zrak.	The window is open for fresh air.	prozor	Masculine	window (building)	
 Nož je oštar i dobro reže.	The knife is sharp and cuts well.	nož	Masculine	knife	
 Popijem kavu iz šalice.	I drink coffee from a cup.	šalica	Feminine	cup	
-?aša je napunjena vodom.	The glass is filled with water.	caša	Feminine	glass (for drinks?)	
+Čaša je napunjena vodom.	The glass is filled with water.	caša	Feminine	glass (for drinks?)	
 Stavim hranu na tanjur.	I put the food on the plate.	tanjur	Masculine	plate	
-Bacim otpad u kantu za sme?e.	I throw the trash in the garbage can.	kanta za smece	Feminine	garbage bin	
+Bacim otpad u kantu za smeće.	I throw the trash in the garbage can.	kanta za smece	Feminine	garbage bin	
 Juha je u zdjeli.	The soup is in the bowl.	zdjela	Feminine	bowl	
 Gledamo film na televizoru.	We watch a movie on the television.	televizor	Masculine	TV	
 Radim na radnom stolu.	I work at the desk.	radni stol	Masculine	desk	
@@ -556,10 +556,10 @@ Ptice mogu letjeti visoko u zraku.	Birds can fly high in the air.	letjeti		to fl
 Ona nosi crvenu torbu.	She is carrying a red bag.	nositi		to carry	
 On pljune kada se ljuti.	He spits when he is angry.	pljuvati		to spit	
 On može udariti nogom u loptu.	He can kick the ball.	udariti nogom		to kick	
-Pas voli gristi igra?ke.	The dog likes to chew toys.	gristi		to bite	
+Pas voli gristi igračke.	The dog likes to chew toys.	gristi		to bite	
 Moramo disati duboko za opuštanje.	We need to breathe deeply for relaxation.	disati		to breathe	
 Cvijet lijepo miriše.	The flower smells nice.	mirisati		to smell	
-Djeca plaku kad su tužna.	Children cry when they are sad.	plakati		to cry	
+Djeca plaču kad su tužna.	Children cry when they are sad.	plakati		to cry	
 Volim pjevati dok radim.	I love to sing while I work.	pjevati		to sing	
 Ona se smiješi dok gleda film.	She smiles while watching the movie.	smiješiti se		to smile	
 Oni se smiju na šalu.	They laugh at the joke.	smijati se		to laugh	
@@ -567,9 +567,9 @@ Djeca brzo rastu.	Children grow up quickly.	rasti		to grow
 Trebam smanjiti brzinu.	I need to reduce the speed.	smanjiti		to reduce, lessen, make smaller	
 Oni se često svađaju zbog sitnica.	They often argue over trivial things.	svadati se		to argue	
 On prijeti ako ne dobijemo rezultat.	He threatens if we don’t get the result.	prijetiti		to threaten	
-Moramo dijeliti kola?e ravnomjerno.	We need to share the cakes evenly.	dijeliti		to share	
-Moramo hraniti ma?ku svaki dan.	We need to feed the cat every day.	hraniti		to feed	
-Ne možeš kriti svoje osje?aje.	You can’t hide your feelings.	kriti		to hide	
+Moramo dijeliti kolače ravnomjerno.	We need to share the cakes evenly.	dijeliti		to share	
+Moramo hraniti mačku svaki dan.	We need to feed the cat every day.	hraniti		to feed	
+Ne možeš kriti svoje osjećaje.	You can’t hide your feelings.	kriti		to hide	
 Moram upozoriti te na opasnost.	I need to warn you about the danger.	upozoriti		to warn	
 Djeca vole plivati u bazenu.	Children love to swim in the pool.	plivati		to swim	
 Oni se vole skakati na trampolinu.	They love to jump on the trampoline.	skakati		to jump	
@@ -578,16 +578,16 @@ On pomaže dizati teške kutije.	He helps lift the heavy boxes.	dizati		to lift
 Trebam kopati u vrtu.	I need to dig in the garden.	kopati		to dig	
 Moram kopirati dokumente za sastanak.	I need to copy the documents for the meeting.	kopirati		to copy	
 Kurir će dostaviti paket sutra.	The courier will deliver the package tomorrow.	dostaviti		to deliver	
-On traži svoj klju?eve.	He is looking for his keys.	tražiti		to look for	
+On traži svoje ključeve.	He is looking for his keys.	tražiti		to look for	
 Ona vježba svaki dan u teretani.	She exercises every day at the gym.	vježbati		to practice	
-Oni vole putovati u egzoti?na mjesta.	They love to travel to exotic places.	putovati		to travel	
+Oni vole putovati u egzotična mjesta.	They love to travel to exotic places.	putovati		to travel	
 On voli slikati pejzaže.	He likes to paint landscapes.	slikati		to paint	
-Nakon tr?anja se tuširam.	I shower after running.	tuširati se		to take a shower	
-Ne zaboravi zaklju?ati vrata.	Don’t forget to lock the door.	zakljucati		to lock	
+Nakon trčanja se tuširam.	I shower after running.	tuširati se		to take a shower	
+Ne zaboravi zaključati vrata.	Don’t forget to lock the door.	zakljucati		to lock	
 Moram prati ruke prije jela.	I need to wash my hands before eating.	prati		to wash	
 Svaki dan se molimo za zdravlje.	We pray every day for health.	moliti se		to pray	
-Ona kuha ve?eru za obitelj.	She cooks dinner for the family.	kuhati		to cook	
-?itam zanimljivu knjigu.	I’m reading an interesting book.	knjiga	Feminine	book	
+Ona kuha večeru za obitelj.	She cooks dinner for the family.	kuhati		to cook	
+Čitam zanimljivu knjigu.	I’m reading an interesting book.	knjiga	Feminine	book	
 Idemo u knjižnicu da posudimo knjige.	We are going to the library to borrow books.	knjižnica	Feminine	library	
 Moraš završiti domaću zadaću za sutra.	You need to finish the homework for tomorrow.	domaca zadaca	Feminine	homework	
 Polagao je ispit iz matematike.	He took a math exam.	ispit	Masculine	exam	
@@ -595,14 +595,14 @@ Danas imamo lekciju iz engleskog.	Today we have an English lesson.	lekcija	Femin
 Znanost pomaže razumjeti svijet.	Science helps us understand the world.	znanost	Feminine	science	
 Povijest je zanimljiva tema.	History is an interesting subject.	povijest	Feminine	history	
 Umjetnost može biti vrlo inspirativna.	Art can be very inspiring.	umjetnost	Feminine	art	
-U?imo engleski jezik u školi.	We are learning English at school.	engleski	Masculine	English	
+Učimo engleski jezik u školi.	We are learning English at school.	engleski	Masculine	English	
 Trebam olovku za pisanje.	I need a pencil for writing.	olovka	Feminine	pen	
 On je prvi na listi.	He is first on the list.	prvi		first	
 Ona je druga u klasi.	She is second in the class.	drugi		2nd	
 Oni su treći na natjecanju.	They are third in the competition.	treci		third	
 On je četvrti na popisu.	He is fourth on the list.	cetvrti		fourth	
-Rezultat ispita je bio odli?an.	The exam result was excellent.	rezultat	Masculine	result	
-Kvadrat ima ?etiri stranice.	A square has four sides.	kvadrat	Masculine	square (shape)	
+Rezultat ispita je bio odličan.	The exam result was excellent.	rezultat	Masculine	result	
+Kvadrat ima četiri stranice.	A square has four sides.	kvadrat	Masculine	square (shape)	
 Krug je oblika kao kolo.	A circle is round like a wheel.	krug	Masculine	circle	
 Površina stola je drvena.	The surface of the table is wooden.	površina	Feminine	area	
 Istraživanje je važno za napredak.	Research is important for progress.	istraživanje	Neuter	research	
@@ -618,11 +618,11 @@ Broj x je veći od broja y.	Number x is greater than number y.	x je veci od y		x
 Njegova plaća je vrlo dobra.	His salary is very good.	placa	Feminine	salary	
 Moram znati tvoju adresu.	I need to know your address.	adresa	Feminine	address	
 Poslao sam ti pismo.	I sent you a letter.	pismo	Neuter	letter (mail)	
-Kapetan broda je stru?an.	The ship's captain is skilled.	kapetan	Masculine	captain	
+Kapetan broda je stručan.	The ship's captain is skilled.	kapetan	Masculine	captain	
 Detektiv istražuje zločin.	The detective is investigating the crime.	detektiv	Masculine	detective	
 On je pilot komercijalnog aviona.	He is a commercial airplane pilot.	pilot	Masculine	pilot	
 Profesor predaje matematiku.	The professor teaches mathematics.	profesor	Masculine	professor	
-U?itelj objašnjava lekciju.	The teacher explains the lesson.	ucitelj	Masculine	teacher	
+Učitelj objašnjava lekciju.	The teacher explains the lesson.	ucitelj	Masculine	teacher	
 Odvjetnik brani klijenta na sudu.	The lawyer defends the client in court.	odvjetnik	Masculine	lawyer	
 Tajnica pomaže u organizaciji.	The secretary helps with organization.	tajnica	Feminine	secretary	
 Asistent pomaže profesoru.	The assistant helps the professor.	asistent	Masculine	assistant	
@@ -630,16 +630,16 @@ Sudac donosi odluke na suđenju.	The judge makes decisions in court.	sudac	Mascu
 Direktor upravlja tvrtkom.	The director manages the company.	direktor	Masculine	director (business)	
 Upravitelj vodi cijeli odjel.	The manager oversees the entire department.	upravitelj	Masculine	manager	
 Kuhar priprema obrok za goste.	The cook prepares meals for guests.	kuhar	Masculine	cook	
-Voza? taksija nas je odvezao do hotela.	The taxi driver took us to the hotel.	vozac taksija	Masculine	taxi driver	
-Voza? autobusa vozi putnike do stanice.	The bus driver takes passengers to the station.	vozac autobusa	Masculine	bus driver	
-Kriminalac je uhvaćen nakon plja?ke.	The criminal was caught after the robbery.	kriminalac	Masculine	criminal	
+Vozač taksija nas je odvezao do hotela.	The taxi driver took us to the hotel.	vozac taksija	Masculine	taxi driver	
+Vozač autobusa vozi putnike do stanice.	The bus driver takes passengers to the station.	vozac autobusa	Masculine	bus driver	
+Kriminalac je uhvaćen nakon pljačke.	The criminal was caught after the robbery.	kriminalac	Masculine	criminal	
 Ona je model za modnu reviju.	She is a model for a fashion show.	model	Masculine	model (fashion)	
 Umjetnik stvara prekrasne slike.	The artist creates beautiful paintings.	umjetnik	Masculine	artist	
 Trebam tvoj telefonski broj.	I need your phone number.	telefonski broj	Masculine	telephone number	
 Nema signala u ovom području.	There is no signal in this area.	signal	Masculine	signal (phone)	
 Instalirao sam novu aplikaciju na svom telefonu.	I installed a new app on my phone.	aplikacija	Feminine	app	
 Razgovaramo preko chata.	We are chatting online.	chat	Masculine	chat	
-Spremi datoteku na ra?unalo.	Save the file on the computer.	datoteka	Feminine	file	
+Spremi datoteku na računalo.	Save the file on the computer.	datoteka	Feminine	file	
 Poslao sam ti URL za stranicu.	I sent you the URL for the page.	URL	Masculine	URL	
 Poslao sam e-mail s detaljima.	I sent an email with the details.	e-mail	Masculine	email	
 Ova stranica je vrlo korisna.	This page is very useful.	stranica	Feminine	page	
@@ -689,19 +689,19 @@ Kupio sam novi časopis.	I bought a new magazine.	casopis	Masculine	magazine
 Reklama za novi proizvod je na televiziji.	The advertisement for the new product is on TV.	reklama	Feminine	advertisement	
 Priroda je vrlo lijepa u ovom parku.	Nature is very beautiful in this park.	priroda	Feminine	nature	
 Nakon roštilja ostaje pepeo.	Ash remains after the barbecue.	pepeo	Masculine	ash	
-Vatra je jako vru?a.	The fire is very hot.	vatra	Feminine	fire	
+Vatra je jako vruća.	The fire is very hot.	vatra	Feminine	fire	
 Dijamant je dragocjen.	A diamond is precious.	dijamant	Masculine	diamond	
 Sunce sije jako danas.	The sun is shining brightly today.	sunce	Neuter	sun	
-No?u gledamo zvijezde na nebu.	At night we watch the stars in the sky.	zvijezda	Feminine	star	
-Zemlja je planet u Sun?evom sustavu.	Earth is a planet in the solar system.	planet	Masculine	planet	
-Svemir je beskona?an.	The universe is infinite.	svemir	Masculine	universe	
+Noću gledamo zvijezde na nebu.	At night we watch the stars in the sky.	zvijezda	Feminine	star	
+Zemlja je planet u Sunčevom sustavu.	Earth is a planet in the solar system.	planet	Masculine	planet	
+Svemir je beskonačan.	The universe is infinite.	svemir	Masculine	universe	
 Prošetali smo uz obalu mora.	We walked along the shore of the sea.	obala	Feminine	coast	
-Jezero je hladno i ?isto.	The lake is cold and clear.	jezero	Neuter	lake	
+Jezero je hladno i čisto.	The lake is cold and clear.	jezero	Neuter	lake	
 Šuma je puna divljih životinja.	The forest is full of wild animals.	šuma	Feminine	forest	
-Pustinja je suha i vru?a.	The desert is dry and hot.	pustinja	Feminine	desert (location)	
+Pustinja je suha i vruća.	The desert is dry and hot.	pustinja	Feminine	desert (location)	
 Brdo je visoko i strmo.	The hill is tall and steep.	brdo	Neuter	hill	
-Stijena je vrlo ?vrsta.	The rock is very hard.	stijena	Feminine	rock (stone)	
-Rijeka te?e kroz grad.	The river flows through the city.	rijeka	Feminine	river	
+Stijena je vrlo čvrsta.	The rock is very hard.	stijena	Feminine	rock (stone)	
+Rijeka teče kroz grad.	The river flows through the city.	rijeka	Feminine	river	
 Dolina je prekrivena zelenilom.	The valley is covered in greenery.	dolina	Feminine	valley	
 Planina je prekrivena snijegom.	The mountain is covered in snow.	planina	Feminine	mountain	
 Otok je udaljen od kopna.	The island is far from the mainland.	otok	Masculine	island	
@@ -718,34 +718,34 @@ Trava u parku je zelena i svježa.	The grass in the park is green and fresh.	tra
 Ruža u vrtu je crvena.	The rose in the garden is red.	ruža	Feminine	rose	
 Cvijet je predivan.	The flower is beautiful.	cvijet	Masculine	flower	
 Plin je izvor energije za kuhanje.	Gas is a source of energy for cooking.	plin	Masculine	gas	
-Metal je ?vrst i izdržljiv.	Metal is solid and durable.	metal	Masculine	metal	
+Metal je čvrst i izdržljiv.	Metal is solid and durable.	metal	Masculine	metal	
 Zlato je skupo i sjajno.	Gold is expensive and shiny.	zlato	Neuter	gold	
 Srebro se koristi za izradu nakita.	Silver is used for making jewelry.	srebro	Neuter	silver	
 Proslavili smo praznik s obitelji.	We celebrated the holiday with family.	praznik	Masculine	holiday	
-On je ?lan kluba.	He is a member of the club.	clan	Masculine	member	
+On je član kluba.	He is a member of the club.	clan	Masculine	member	
 Smjestili smo se u hotelu.	We stayed at the hotel.	hotel	Masculine	hotel	
 Plaža je prepuna turista.	The beach is full of tourists.	plaža	Feminine	beach	
-Imamo goste na ve?eri.	We have guests for dinner.	gost	Masculine	guest	
-Proslavili smo ro?endan mog brata.	We celebrated my brother’s birthday.	rodendan	Masculine	birthday	
-Boži? je omiljeni blagdan.	Christmas is a favorite holiday.	Božic	Masculine	christmas	
-Nova godina po?inje sutra.	The New Year starts tomorrow.	Nova godina	Feminine	New Year	
-Uskrs je važan krš?anski blagdan.	Easter is an important Christian holiday.	Uskrs	Masculine	Easter	
+Imamo goste na večeri.	We have guests for dinner.	gost	Masculine	guest	
+Proslavili smo rođendan mog brata.	We celebrated my brother’s birthday.	rodendan	Masculine	birthday	
+Božić je omiljeni blagdan.	Christmas is a favorite holiday.	Božic	Masculine	christmas	
+Nova godina počinje sutra.	The New Year starts tomorrow.	Nova godina	Feminine	New Year	
+Uskrs je važan kršćanski blagdan.	Easter is an important Christian holiday.	Uskrs	Masculine	Easter	
 Moj ujak dolazi u posjet.	My uncle is coming to visit.	ujak	Masculine	uncle	
-Teta mi pomaže s doma?im zadacima.	My aunt helps me with homework.	teta	Feminine	aunt	
-Baka pravi najbolje kola?e.	Grandma makes the best cakes.	baka	Feminine	grandmother (paternal and maternal)	
-Djed pri?a zanimljive pri?e.	Grandpa tells interesting stories.	djed	Masculine	grandfather (paternal)	
+Teta mi pomaže s domaćim zadacima.	My aunt helps me with homework.	teta	Feminine	aunt	
+Baka pravi najbolje kolače.	Grandma makes the best cakes.	baka	Feminine	grandmother (paternal and maternal)	
+Djed priča zanimljive priče.	Grandpa tells interesting stories.	djed	Masculine	grandfather (paternal)	
 Smrt je prirodan dio života.	Death is a natural part of life.	smrt	Feminine	death	
 Posjetili smo grob naših predaka.	We visited the graves of our ancestors.	grob	Masculine	grave	
 Razvod može biti emotivno težak.	Divorce can be emotionally difficult.	razvod	Masculine	divorce	
 Mladenka je nosila predivnu haljinu.	The bride wore a beautiful dress.	mladenka	Feminine	bride	
-Mladoženja je bio sretan i uzbu?en.	The groom was happy and excited.	mladoženja	Masculine	groom	
+Mladoženja je bio sretan i uzbuđen.	The groom was happy and excited.	mladoženja	Masculine	groom	
 Tigar je snažna i opasna životinja.	The tiger is a strong and dangerous animal.	tigar	Masculine	tiger	
 Miš je mali glodavac.	A mouse is a small rodent.	miš	Masculine	mouse	
-Štakor je ve?i od miša.	A rat is bigger than a mouse.	štakor	Masculine	rat	
-Zec skaku?e po livadi.	The rabbit hops across the meadow.	zec	Masculine	rabbit	
+Štakor je veći od miša.	A rat is bigger than a mouse.	štakor	Masculine	rat	
+Zec skakuće po livadi.	The rabbit hops across the meadow.	zec	Masculine	rabbit	
 Lav je kralj životinja.	The lion is the king of animals.	lav	Masculine	lion	
 Magarac je koristan za prijevoz tereta.	The donkey is useful for carrying loads.	magarac	Masculine	donkey	
-Slon je najve?a kopnena životinja.	The elephant is the largest land animal.	slon	Masculine	elephant	
+Slon je najveća kopnena životinja.	The elephant is the largest land animal.	slon	Masculine	elephant	
 Ptice lete visoko na nebu.	Birds fly high in the sky.	ptica	Feminine	bird	
 Pijetao pjeva rano ujutro.	The rooster crows early in the morning.	pijetao	Masculine	rooster	
 Golubovi su simbol mira.	Doves are a symbol of peace.	golub	Masculine	pigeon	
@@ -755,24 +755,24 @@ Buba se skriva pod kamenjem.	The beetle hides under the stone.	buba	Feminine	bug
 Komarci mogu biti vrlo dosadni.	Mosquitoes can be very annoying.	komarac	Masculine	mosquito	
 Muha leti oko hrane.	The fly is buzzing around the food.	muha	Feminine	fly	
 Mravi grade mravinjake.	Ants build anthills.	mrav	Masculine	ant	
-Kitovi su najve?i sisavci u oceanu.	Whales are the largest mammals in the ocean.	kit	Masculine	whale	
+Kitovi su najveći sisavci u oceanu.	Whales are the largest mammals in the ocean.	kit	Masculine	whale	
 Morski pas može biti opasan.	The shark can be dangerous.	morski pas	Masculine	shark	
 Dupini su prijateljski nastrojeni.	Dolphins are friendly.	dupin	Masculine	dolphin	
-Puževi se kre?u vrlo sporo.	Snails move very slowly.	puž	Masculine	snail	
-Žabe ska?u po mo?varama.	Frogs jump in the swamps.	žaba	Feminine	frog	
-Dolazim ovdje ?esto.	I come here often.	cesto		often	
-Do?i odmah!	Come immediately!	odmah		immediately	
+Puževi se kreću vrlo sporo.	Snails move very slowly.	puž	Masculine	snail	
+Žabe skaču po mmočvarama.	Frogs jump in the swamps.	žaba	Feminine	frog	
+Dolazim ovdje često.	I come here often.	cesto		often	
+Dođi odmah!	Come immediately!	odmah		immediately	
 Sve se dogodilo odjednom.	Everything happened at once.	odjednom		suddenly	
 Iako je hladno, izlazimo van.	Although it’s cold, we’re going outside.	iako		although	
-Gimnastika je odli?an na?in za vježbanje.	Gymnastics is a great way to exercise.	gimnastika	Feminine	gymnastics	
+Gimnastika je odličan način za vježbanje.	Gymnastics is a great way to exercise.	gimnastika	Feminine	gymnastics	
 Igramo tenis u parku.	We play tennis in the park.	tenis	Masculine	tennis	
-Tr?anje je dobro za zdravlje.	Running is good for your health.	trcanje	Neuter	running	
+Trčanje je dobro za zdravlje.	Running is good for your health.	trcanje	Neuter	running	
 Biciklizam je popularan sport u mnogim zemljama.	Cycling is a popular sport in many countries.	biciklizam	Masculine	cycling	
-Golferi ?esto igraju golf na velikim terenima.	Golfers often play on large courses.	golf	Masculine	golf	
+Golferi često igraju golf na velikim terenima.	Golfers often play on large courses.	golf	Masculine	golf	
 Klizanje na ledu je zabavna zimska aktivnost.	Ice skating is a fun winter activity.	klizanje na ledu	Neuter	ice skating	
 Nogomet je najpopularniji sport u svijetu.	Soccer is the most popular sport in the world.	nogomet	Masculine	football	
 Košarka se igra s loptom i koševima.	Basketball is played with a ball and hoops.	košarka	Feminine	basketball	
-Plivanje je odli?an na?in za vježbanje cijelog tijela.	Swimming is a great full-body workout.	plivanje	Neuter	swimming	
+Plivanje je odličan način za vježbanje cijelog tijela.	Swimming is a great full-body workout.	plivanje	Neuter	swimming	
 Ronjenje je zanimljivo istraživanje podvodnog svijeta.	Diving is an interesting exploration of the underwater world.	ronjenje	Neuter	diving	
 Planinarenje pruža prekrasne poglede na prirodu.	Hiking offers beautiful views of nature.	planinarenje	Neuter	hiking	
 Ujedinjeno Kraljevstvo je poznato po svojoj povijesti.	The United Kingdom is known for its history.	Ujedinjeno Kraljevstvo	Neuter	United Kingdom	
@@ -780,10 +780,10 @@ Ujedinjeno Kraljevstvo je poznato po svojoj povijesti.	The United Kingdom is kno
 Švicarska je poznata po svojim planinama i satovima.	Switzerland is known for its mountains and watches.	Švicarska	Feminine	Switzerland	
 Italija je poznata po svojoj umjetnosti i hrani.	Italy is known for its art and food.	Italija	Feminine	Italy	
 Francuska ima poznatu kulinarsku tradiciju.	France has a famous culinary tradition.	Francuska	Feminine	France	
-Njema?ka je poznata po svojoj tehnologiji.	Germany is known for its technology.	Njemacka	Feminine	Germany	
-Rusija je najve?a zemlja na svijetu.	Russia is the largest country in the world.	Rusija	Feminine	Russia	
-Sjedinjene Ameri?ke Države su poznate po svojoj raznolikosti.	The United States is known for its diversity.	Sjedinjene Americke Države	Feminine	USA	
-Europa ima mnogo razli?itih kultura.	Europe has many different cultures.	Europa	Feminine	Europe	
+Njemačka je poznata po svojoj tehnologiji.	Germany is known for its technology.	Njemacka	Feminine	Germany	
+Rusija je najveća zemlja na svijetu.	Russia is the largest country in the world.	Rusija	Feminine	Russia	
+Sjedinjene Američke Države su poznate po svojoj raznolikosti.	The United States is known for its diversity.	Sjedinjene Americke Države	Feminine	USA	
+Europa ima mnogo različitih kultura.	Europe has many different cultures.	Europa	Feminine	Europe	
 Bit ćemo za pola sata.	We will be there in half an hour.	pola sata		half an hour	
 Čelo mu je bilo izloženo suncu.	His forehead was exposed to the sun.	celo	Neuter	forehead	
 Bora na čelu mu je postala vidljivija.	The wrinkles on his forehead became more visible.	bora	Feminine	wrinkle (skin)	
@@ -800,11 +800,11 @@ Prstenjak nosi prsten.	The ring finger wears a ring.	prstenjak	Masculine	ring fi
 Srednji prst je najduži prst na ruci.	The middle finger is the longest finger on the hand.	srednji prst	Masculine	middle finger	
 Kažiprst pokazuje put.	The index finger points the way.	kažiprst	Masculine	index finger	
 Ručni zglob je važan za pokrete ruke.	The wrist is important for hand movements.	rucni zglob	Masculine	wrist	
-Nokti trebaju biti ?isti i uredni.	Nails should be clean and tidy.	nokat	Masculine	fingernail	
+Nokti trebaju biti čisti i uredni.	Nails should be clean and tidy.	nokat	Masculine	fingernail	
 Peta me boli nakon dugog hodanja.	My heel hurts after a long walk.	peta	Feminine	heel	
 Kralježnica podržava cijelo tijelo.	The spine supports the entire body.	kralježnica	Feminine	spine	
-Miši?i su važni za kretanje.	Muscles are important for movement.	mišic	Masculine	muscle	
-Kostur drži tijelo ?vrstim.	The skeleton keeps the body firm.	kostur	Masculine	skeleton	
+Mišići su važni za kretanje.	Muscles are important for movement.	mišic	Masculine	muscle	
+Kostur drži tijelo čvrstim.	The skeleton keeps the body firm.	kostur	Masculine	skeleton	
 Rebra štite unutarnje organe.	Ribs protect the internal organs.	rebro	Neuter	rib	
 Kralježak je dio kralježnice.	A vertebra is part of the spine.	kralježak	Masculine	vertebra	
 Mjehur se puni tekućinom.	The bladder fills with fluid.	mjehur	Masculine	bladder	
@@ -814,12 +814,12 @@ Vagina je dio ženskog reproduktivnog sustava.	The vagina is part of the female 
 Sperma je potrebna za oplodnju jajne stanice.	Sperm is needed to fertilize an egg.	sperma	Feminine	sperm	
 Penis je dio muškog reproduktivnog sustava.	The penis is part of the male reproductive system.	penis	Masculine	penis	
 Testisi proizvode spermatozoide.	The testicles produce sperm.	testis	Masculine	testicles	
-Ovo voće je vrlo so?an.	This fruit is very juicy.	socan		juicy	socan, socna, socno, socni, socniji, najsocniji
+Ovo voće je vrlo sočno.	This fruit is very juicy.	socan		juicy	socan, socna, socno, socni, socniji, najsocniji
 Sol je slan.	Salt is salty.	slan		salty	slan, slana, slano, slani, slaniji, najslaniji
 Sirovo meso treba kuhati.	Raw meat needs to be cooked.	sirov		raw	sirov, sirova, sirovo, sirovi, siroviji, najsiroviji
 Juha je kuhana i spremna za jelo.	The soup is cooked and ready to eat.	kuhan		boiled, cooked	kuhan, kuhana, kuhano, kuhani, kuhaniji, najkuhaniji
-Ona je stidljiva i ?esto se crveni.	She is shy and often blushes.	stidljiv		shy	stidljiv, stidljiva, stidljivo, stidljivi, stidljiviji, najstidljiviji
-Pohlepan ?ovjek uvijek želi više.	A greedy person always wants more.	pohlepan		greedy	pohlepan, pohlepna, pohlepno, pohlepni, pohlepniji, najpohlepniji
+Ona je stidljiva i često se crveni.	She is shy and often blushes.	stidljiv		shy	stidljiv, stidljiva, stidljivo, stidljivi, stidljiviji, najstidljiviji
+Pohlepan čovjek uvijek želi više.	A greedy person always wants more.	pohlepan		greedy	pohlepan, pohlepna, pohlepno, pohlepni, pohlepniji, najpohlepniji
 Njegov otac je vrlo strog.	His father is very strict.	strog		strict	strog, stroga, strogo, strogi, stroži, najstroži
 On je gluh i ne čuje dobro.	He is deaf and does not hear well.	gluh		deaf	gluh, gluha, gluho, gluhi, -, -
 On je nijem i koristi znakove za komunikaciju.	He is mute and uses signs for communication.	nijem		mute	nijem, nijema, nijemo, nijemi, -, -
@@ -842,14 +842,14 @@ Odbojka je timski sport s loptom.	Volleyball is a team sport with a ball.	odbojk
 Šah je strateška igra s figurama.	Chess is a strategic game with pieces.	šah	Masculine	chess	
 Penjanje na stenu je izazovno.	Rock climbing is challenging.	penjanje	Neuter	climbing	
 Zagrijavanje je važno prije vježbanja.	Warming up is important before exercising.	zagrijavanje	Neuter	warm-up	
-Istezanje pomaže u oporavku miši?a.	Stretching helps with muscle recovery.	istezanje	Neuter	stretching	
+Istezanje pomaže u oporavku mišića.	Stretching helps with muscle recovery.	istezanje	Neuter	stretching	
 Ima milijun zvijezda na nebu.	There are a million stars in the sky.	milijuna		million	
 Milijarda ljudi živi na Zemlji.	A billion people live on Earth.	milijarda		billion	
 Bilijun je broj s puno nula.	A trillion is a number with many zeros.	bilijun		trillion	
 On voli kockati u kazinu.	He likes to gamble at the casino.	kockati		to gamble	
 Počeo je udebljati se nakon što je prestao vježbati.	He started to gain weight after he stopped exercising.	udebljati se		to gain weight	
 Želim smršavjeti prije ljetnog odmora.	I want to lose weight before the summer vacation.	smršavjeti		to lose weight	
-Po?eo je povra?ati nakon što je pojeo nešto loše.	He started to vomit after eating something bad.	povracati		to vomit	
+Počeo je povraćati nakon što je pojeo nešto loše.	He started to vomit after eating something bad.	povracati		to vomit	
 On voli vikati kada se ljuti.	He likes to shout when he is angry.	vikati		to shout	
 Bulji u ekran cijeli dan.	He stares at the screen all day.	buljiti		to stare	
 Onesvijestila se zbog vrućine.	She fainted due to the heat.	onesvijestiti se		to faint	
@@ -874,15 +874,15 @@ Potkrovlje je pretvoreno u radnu sobu.	The attic has been turned into an office.
 Ulazna vrata su crvena i moderna.	The front door is red and modern.	ulazna vrata	Feminine	front door	
 Hodnik je uzak, ali dobro osvijetljen.	The hallway is narrow but well-lit.	hodnik	Masculine	corridor	
 Prizemlje ima dnevni boravak i kuhinju.	The ground floor has a living room and kitchen.	prizemlje	Neuter	ground floor	
-Na prvom katu su spava?e sobe.	The first floor has the bedrooms.	prvi kat	Masculine	first floor	
+Na prvom katu su spavaće sobe.	The first floor has the bedrooms.	prvi kat	Masculine	first floor	
 Dimnjak je potrebno redovito čistiti.	The chimney needs to be cleaned regularly.	dimnjak	Masculine	chimney	
 Ventilator pomaže da se rashladimo tijekom ljeta.	The fan helps us cool down during summer.	ventilator	Masculine	fan	
-Klima uređaj je uklju?en kako bi se ohladio prostor.	The air conditioner is on to cool the room.	klima uredaj	Masculine	air conditioner	
+Klima uređaj je uključen kako bi se ohladio prostor.	The air conditioner is on to cool the room.	klima uredaj	Masculine	air conditioner	
 Imam novi aparat za kavu koji pravi odličnu kavu.	I have a new coffee machine that makes great coffee.	aparat za kavu	Masculine	coffee machine	
 Toster koristi za pečenje kruha.	The toaster is used for toasting bread.	toster	Masculine	toaster	
-Usisava? je stao raditi.	The vacuum cleaner stopped working.	usisavac	Masculine	vacuum cleaner	
+Usisavač je stao raditi.	The vacuum cleaner stopped working.	usisavac	Masculine	vacuum cleaner	
 Sušilo za kosu je na stolu u kupaonici.	The hairdryer is on the bathroom counter.	sušilo za kosu	Neuter	hair dryer	
-Čajnik kuha vodu za ?aj.	The kettle boils water for tea.	cajnik	Masculine	kettle	
+Čajnik kuha vodu za čaj.	The kettle boils water for tea.	cajnik	Masculine	kettle	
 Perilica posuđa je puna prljavih tanjura.	The dishwasher is full of dirty dishes.	perilica posuda	Feminine	dishwasher	
 Kuhalo za vodu je brzo prokuhalo vodu.	The stovetop quickly boiled the water.	kuhalo	Neuter	cooker, stovetop	
 Pećnica je zagrijana na 200 stupnjeva.	The oven is preheated to 200 degrees.	pecnica	Feminine	oven	
@@ -895,19 +895,19 @@ Spužva je mokra nakon čišćenja stola.	The sponge is wet after cleaning the t
 Kuhača se koristi za miješanje jela.	The ladle is used for stirring dishes.	kuhaca	Feminine	wooden spoon	
 Žlica je na stolu pored tanjura.	The spoon is on the table next to the plate.	žlica	Feminine	spoon	
 Vilica je potrebna za jesti meso.	A fork is needed to eat meat.	vilica	Feminine	fork	
-Kutla?a je u ladici u kuhinji.	The ladle is in the kitchen drawer.	kutlaca	Feminine	ladle	
+Kutlača je u ladici u kuhinji.	The ladle is in the kitchen drawer.	kutlaca	Feminine	ladle	
 Lonac je na štednjaku.	The pot is on the stove.	Lonac	Masculine	pot	
 Tava se koristi za prženje jaja.	The pan is used for frying eggs.	tava	Feminine	pan	
 Žarulja u hodniku je pregorjela.	The light bulb in the hallway is burnt out.	žarulja	Feminine	light bulb	
 Budilica me budi svakog jutra.	The alarm clock wakes me up every morning.	budilica	Feminine	alarm clock	
-Sef ?uva vrijedne stvari.	The safe keeps valuable items.	sef	Masculine	safe (money)	
+Sef čuva vrijedne stvari.	The safe keeps valuable items.	sef	Masculine	safe (money)	
 Polica za knjige je puna knjiga.	The bookshelf is full of books.	polica za knjige	Feminine	bookshelf	
 Zavjese su plave i nove.	The curtains are blue and new.	zavjesa	Feminine	curtain	
 Madrac je vrlo udoban.	The mattress is very comfortable.	madrac	Masculine	mattress	
 Jastuk je mekan i udoban za spavanje.	The pillow is soft and comfortable for sleeping.	jastuk	Masculine	pillow	
 Deka je topla i mekana.	The blanket is warm and soft.	deka	Feminine	blanket	
 Polica je puna sitnica.	The shelf is full of knick-knacks.	polica	Feminine	shelf	
-Ladica u komodi je puna ?arapa.	The drawer in the dresser is full of socks.	ladica	Feminine	drawer	
+Ladica u komodi je puna čarapa.	The drawer in the dresser is full of socks.	ladica	Feminine	drawer	
 Garderobni ormar je velik i ima mnogo prostora.	The wardrobe is large and has a lot of space.	garderobni ormar	Masculine	wardrobe	
 Kanta za smeće je puna.	The trash can is full.	kanta	Feminine	bucket, trash can	
 Metla se koristi za čišćenja poda.	The broom is used for cleaning the floor.	metla	Feminine	broom	
@@ -915,7 +915,7 @@ Vaga mjeri težinu.	The scale measures weight.	vaga	Feminine	scale
 Kada se koristi za kupanje.	The bathtub is used for bathing.	kada	Feminine	bathtub	
 Sapun se koristi za pranje ruku.	Soap is used for washing hands.	sapun	Masculine	soap	
 Toaletni papir je u WC-u.	Toilet paper is in the bathroom.	toaletni papir	Masculine	toliet paper	
-Ru?nik je na vješalici.	The towel is on the rack.	rucnik	Masculine	towel	
+Ručnik je na vješalici.	The towel is on the rack.	ručnik	Masculine	towel	
 Umivaonik je na zidu u kupaonici.	The sink is mounted on the wall in the bathroom.	umivaonik	Masculine	sink	
 Prekidač za svjetlo je pored vrata.	The light switch is next to the door.	prekidac za svjetlo	Masculine	light switch	
 Kalendar visi na zidu.	The calendar is hanging on the wall.	kalendar	Masculine	calendar	
@@ -928,8 +928,8 @@ Crijevo se koristi za zalijevanje vrta.	The hose is used for watering the garden
 Lopata pomaže u kopanju zemlje.	The shovel helps with digging the soil.	lopata	Feminine	shovel	
 Hostel je jeftin smještaj za putnike.	The hostel is a cheap accommodation for travelers.	hostel	Masculine	hostel	
 Viza je potrebna za putovanje u mnoge zemlje.	A visa is needed to travel to many countries.	viza	Feminine	visa	
-Putovnica je dokument za me?unarodna putovanja.	A passport is a document for international travel.	putovnica	Feminine	passport	
-Dnevnik pišem svake ve?eri.	I write in my journal every evening.	dnevnik	Masculine	diary	
+Putovnica je dokument za međunarodna putovanja.	A passport is a document for international travel.	putovnica	Feminine	passport	
+Dnevnik pišem svake večeri.	I write in my journal every evening.	dnevnik	Masculine	diary	
 Ruksak je spreman za školu.	The backpack is ready for school.	ruksak	Masculine	backpack	
 Šator je postavljen na kampovanju.	The tent is set up at the campsite.	šator	Masculine	tent	
 Rezervacija za večeru.	I have a reservation for dinner.	rezervacija	Feminine	reservation	
@@ -948,16 +948,16 @@ Unuk se igra u parku.	My grandson is playing in the park.	unuk	Masculine	grandso
 Moj zet voli sport.	My son-in-law loves sports.	zet	Masculine	son-in-law	
 Snaha mi je kupila poklon.	My daughter-in-law bought me a gift.	snaha	Feminine	daughter-in-law	
 Moj nećak igra nogomet.	My nephew plays soccer.	necak	Masculine	nephew	
-Nećakinja mi dolazi na ro?endan.	My niece is coming for the birthday.	necakinja	Feminine	niece	
+Nećakinja mi dolazi na rođendan.	My niece is coming for the birthday.	necakinja	Feminine	niece	
 Sestra i sestrična dolaze na večeru.	My sister and cousin are coming for dinner.	sestricna	Feminine	cousin (female)	
 Bratić mi dolazi u posjet.	My cousin is coming to visit.	bratic	Masculine	cousin (male)	
 Groblje je mjesto gdje se pokapaju preminuli.	The cemetery is where the deceased are buried.	groblje	Neuter	cemetery	
 Spol djeteta je odredio liječnik.	The child's gender was determined by the doctor.	spol	Masculine	gender	
 Siroče je dijete koje je izgubilo roditelje.	An orphan is a child who has lost their parents.	siroce	Neuter	orphan	
-Leš je prona?en u šumi.	The corpse was found in the forest.	leš	Masculine	corpse	
+Leš je pronađen u šumi.	The corpse was found in the forest.	leš	Masculine	corpse	
 Srednja škola je obrazovna institucija za tinejdžere.	High school is an educational institution for teenagers.	srednja škola	Feminine	high school	
 Osnovna škola je prva faza obrazovanja.	Primary school is the first stage of education.	osnovna škola	Feminine	junior school (junior high?)	
-Blizanci su ro?eni u isto vrijeme.	Twins are born at the same time.	blizanci	Masculine	twins	
+Blizanci su rođeni u isto vrijeme.	Twins are born at the same time.	blizanci	Masculine	twins	
 Djeca idu u vrtić prije škole.	Children go to kindergarten before school.	vrtic	Masculine	kindergarten	
 Rođenje djeteta je radostan događaj.	The birth of a child is a joyful event.	rodenje	Neuter	birth	
 Akumulator se koristi za napajanje automobila.	The battery is used to power the car.	akumulator	Masculine	battery	
@@ -1103,7 +1103,7 @@ Redatelj je odgovoran za režiju filma.	The director is responsible for directin
 Poličajac pomaže ljudima.	The police officer helps people.	poličajac	Masculine	policeman	
 Srce mi kuća brzo kad trčim.	My heart beats fast when I run.	srce	Neuter	heart	
 Bacila je papir u kantu za smeće.	She threw the paper into the trash can.	baciti		to throw, drop, dump	
-Na željezničkoj stanici ?ekamo vlak.	We are waiting for the train at the railway station.	željeznička stanica	Feminine	train station	
+Na željezničkoj stanici čekamo vlak.	We are waiting for the train at the railway station.	željeznička stanica	Feminine	train station	
 On joj je dao prsten za rođendan.	He gave her a ring for her birthday.	prsten	Masculine	ring	
 U travnju cvatu mnoge vrste cvijeća.	In April, many types of flowers bloom.	travanj	Masculine	April	
 Upisao sam se na sveučilište prošle godine.	I enrolled in the university last year.	sveucilište	Neuter	university	
@@ -1120,7 +1120,7 @@ Stolića je udobna za sjedenje.	The chair is comfortable to sit on.	stolića	Fem
 Netko je ukrao moj novčanik.	Someone stole my wallet.	ukrasti		to steal	
 Pas voli gristi igračke.	The dog likes to chew toys.	gristi		to bite	
 Kurir će dostaviti paket sutra.	The courier will deliver the package tomorrow.	dostaviti		to deliver	
-On traži svoj ključevi.	He is looking for his keys.	tražiti		to look for	
+On traži svoje ključevi.	He is looking for his keys.	tražiti		to look for	
 Oni vole putovati u egzotična mjesta.	They love to travel to exotic places.	putovati		to travel	
 Učimo engleski jezik u školi.	We are learning English at school.	engleski	Masculine	English	
 Kupio sam poklon za rođendan.	I bought a gift for the birthday.	poklon	Masculine	gift	
@@ -1130,5 +1130,5 @@ Prošlavili smo rođendan mog brata.	We celebrated my brother’s birthday.	rođ
 Potiljak mi je bio povrijeđen.	The back of my head was hurt.	potiljak	Masculine	back of the head	
 Kanta za smeće je puna.	The trash can is full.	kanta	Feminine	bucket, trash can	
 Metla se koristi za čišćenje poda.	The broom is used for cleaning the floor.	metla	Feminine	broom	
-Utičnica se koristi za elektri?ne ure?aje.	The socket is used for electrical appliances.	utičnica	Feminine	power outlet	
+Utičnica se koristi za električne uređaje.	The socket is used for electrical appliances.	utičnica	Feminine	power outlet	
 Nećakinja mi dolazi na rođendan.	My niece is coming for the birthday.	necakinja	Feminine	niece	
